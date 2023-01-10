@@ -3,11 +3,8 @@
 run the following command then choose `Vanilla` and `JavaScript`.
 ```
 npm create vite@latest
-```
-```
 npm i
-```
-```
 npm run dev
 ```
+
 
